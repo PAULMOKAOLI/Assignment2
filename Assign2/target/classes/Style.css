@@ -1,0 +1,72 @@
+#left{
+    -fx-background-color: #191970;
+    -fx-spacing:10px;
+}
+#middle{
+    -fx-background-color:gray;
+}
+#right{
+    -fx-background-color:gray;
+}
+#text{
+     -fx-background-color: #191970;
+     -fx-text-fill:white;
+     -fx-border-color:#b0c4de;
+     -fx-border-width:2;
+}
+#text1{
+     -fx-background-color: #191970;
+     -fx-text-fill:white;
+     -fx-border-color:#b0c4de;
+     -fx-border-width:2;
+}
+#para{
+     -fx-text-fill:white;
+     -fx-font-weight:bold;
+     -fx-font-family: "Arial Narrow";
+     -fx-font-size:20px;
+     -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+#para1{
+     -fx-text-fill:white;
+     -fx-font-weight:bold;
+     -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+#Black{
+     -fx-text-fill:Black;
+     -fx-font-weight:bold;
+     -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+#Blue{
+     -fx-text-fill:Blue;
+     -fx-font-weight:bold;
+     -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#footer{
+    -fx-background-color:red;
+}
+#menu{
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-size:30px;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+#but{
+         -fx-background-color: #191970;
+         -fx-text-fill:white;
+         -fx-border-color:#b0c4de;
+         -fx-border-width:2;
+}
